@@ -1,0 +1,12 @@
+特征名称
+可能含义
+
+id 记录编号或用户编号
+Sex 性别 0为男 1为女
+Age 年龄
+Height 身高（单位为 cm ）
+Weight 体重（单位为 kg）
+Duration  运动持续时间（分钟）
+Heart_Rate 运动时的心率（BPM，心跳次数/分钟）
+Body_Temp 运动时的体温（单位为 摄氏度 ℃）
+Calories 运动过程中消耗的热量（通常以千卡 kcal 为单位）
